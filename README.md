@@ -38,4 +38,4 @@ O núcleo do problema resolvido aqui é a **conversão de um valor analógico (i
 
 ## Vídeo de apresentação
 
-[Link do vídeo] https://drive.google.com/file/d/1hmNQe4uaDIKaz60GmmInSdRQelu3xWa7/view?usp=sharing
+<a href="https://drive.google.com/file/d/1hmNQe4uaDIKaz60GmmInSdRQelu3xWa7/view?usp=sharing">LINKD DA SIMULAÇÃO</a>
